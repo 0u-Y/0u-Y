@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm currently studying **Blockchain**, particularly focusing on Ethereum and Solidity for smart contract development.<br><br>
+I'm currently studying **Blockchain** and **Backend**.<br><br>
 
 ### History
 
