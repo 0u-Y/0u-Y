@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-I'm currently studying **Blockchain** and **Backend**.<br><br>
+I'm an aspriing **Blockchain Core Engineer**. <br>
+Currently deep diving into **Protocol Layer**, **EVM**, and  **Consensus Algorithms**.
 
 ### History
 
