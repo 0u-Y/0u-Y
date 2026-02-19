@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm an aspriing **Blockchain Core Engineer**. <br>
+I'm an aspiring **Blockchain Core Engineer**. <br>
 Currently deep diving into **Protocol Layer**, **EVM**, and  **Consensus Algorithms**.
 
 ### History
