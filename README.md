@@ -30,15 +30,3 @@ Currently deep diving into **Protocol Layer**, **EVM**, and  **Consensus Algorit
 
 **Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-
-
-
-
----
-
-
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yyw1000)](https://solved.ac/yyw1000)
