@@ -1,17 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I', YoungWoo Yang
 
+**Aspiring Blockchain Core Engineer** Currently exploring the protocol layer, EVM internals, and consensus algorithms.
 
-I'm an aspiring **Blockchain Core Engineer**. <br>
-Currently deep diving into **Protocol Layer**, **EVM**, and  **Consensus Algorithms**.
-
-### History
-
-- **Leader of Algorithm Club ANA** (2025.01)
-- **Department of Computer Science & Engineering, Chungnam National University** (2023.03)
 ---
-
-
-
 
 ### Tech Stack
 
@@ -30,3 +21,8 @@ Currently deep diving into **Protocol Layer**, **EVM**, and  **Consensus Algorit
 
 **Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### Contact
+* Email: yyw1000@naver.com
