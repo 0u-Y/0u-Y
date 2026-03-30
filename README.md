@@ -1,6 +1,8 @@
-### Hi there 👋 I', YoungWoo Yang
+### Hi there 👋 I'm, YoungWoo Yang
 
 **Aspiring Blockchain Core Engineer** Currently exploring the protocol layer, EVM internals, and consensus algorithms.
+
+<a href="./YoungWoo_Yang_Resume.pdf"><img src="https://img.shields.io/badge/Download_Resume_(PDF)-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"></a>
 
 ---
 
